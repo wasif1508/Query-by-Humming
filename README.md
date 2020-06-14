@@ -1,7 +1,7 @@
 # Query-by-Humming 
 (Part of EE392A UGP)
 
-First of all unzip all the folders.
+First of all unzip all the folders(Don't forget to download our dataset. Place the 'dataset' folder in the main directory).
 
 To use yin, yinfft, COMB filters, schmitt, specacf-
   1. Prepare the note sequences by passing desired method and folder name as arguments. eg- "python aub_method_pitch_ext.py --dataset hummed --method mcomb"
